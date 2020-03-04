@@ -1,7 +1,6 @@
 # OpenJS GitHub Organization Management Policy
 
-The [OpenJS Foundation GitHub Organization](https://github.com/openjs-foundation) is
-provided as a development resource by the OpenJS Foundation under the direction of the OpenJS Cross Project Council (CPC).
+The [OpenJS Foundation GitHub Organization](https://github.com/openjs-foundation) is provided as a development resource by the OpenJS Foundation under the direction of the OpenJS Cross Project Council (CPC).
 
 ## OpenJS Administrative Ownership
 
